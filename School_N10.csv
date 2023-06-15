@@ -1,0 +1,17 @@
+name_school,address,phone,email,num_students,num_teachers
+School_N10,"Astana, Kazakhstan",987654,school_N10AST@mail.ru,1001,59
+name_student,familyname,age,gender,nationality,school,subject
+Iliyas,Magjanev,14,Male,Kazakh,School_N10,['Biology']
+Yermek,Amanetev,18,Male,Kazakh,School_N10,['Maths']
+Irina,Losteva,16,Female,Russian,School_N10,['Geography']
+Blak,Scott,17,Male,American,School_N10,['Biology']
+Ronda,Haig,17,Female,American,School_N10,['Maths']
+Lewis,Hall,14,Male,American,School_N10,['Biology']
+Amanet,Medetev,16,Male,Kazakh,School_N10,['Geography']
+Anton,Zapadnenko,16,Male,Ukrainian,School_N10,['Biology']
+Aygerim,Omarova,18,Female,Kazakh,School_N10,['Maths']
+Dinara,Ospanova,17,Female,Kazakh,School_N10,['Geography']
+name_teacher,familyname,age,gender,nationality,school,subject
+Nataliya,Golub,39,Female,Belarusian,School_N10,['Maths']
+Alfia,Alibekova,31,Female,Kazakh,School_N10,['Biology']
+Balbike,Ayateva,29,Female,Kazakh,School_N10,['Geography']

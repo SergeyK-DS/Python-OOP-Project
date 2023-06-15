@@ -1,0 +1,17 @@
+name_school,address,phone,email,num_students,num_teachers
+School_N9,"Astana, Kazakhstan",123456,sch9AST@mail.ru,1003,77
+name_student,familyname,age,gender,nationality,school,subject
+Alina,Kirsakova,18,Female,Belarusian,School_N9,"['Biology', 'Maths']"
+Nancy,Duncan,14,Female,Russian,School_N9,['Biology']
+Adrian,Miller,16,Male,American,School_N9,['Geography']
+Set,Albertson,15,Male,American,School_N9,['Geography']
+Andrey,Ignatov,16,Male,Russian,School_N9,['Biology']
+Snezhana,Korotkova,17,Female,Russian,School_N9,['Maths']
+Kapan,Ruslanev,18,Male,Kazakh,School_N9,['Geography']
+Ivan,Ivanov,15,Male,Russian,School_N9,['Biology']
+Bekzat,Akhmetov,13,Male,Kazakh,School_N9,['Maths']
+Elena,Ivanova,17,Female,Russian,School_N9,['Geography']
+name_teacher,familyname,age,gender,nationality,school,subject
+Azamat,Nurgaliev,32,Male,Kazakh,School_N9,"['Biology', 'Maths']"
+Margarita,Shiryaeva,41,Female,Russian,School_N9,['Geography']
+Candice,Scott,25,Female,American,School_N9,['Maths']

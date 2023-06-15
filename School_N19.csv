@@ -1,0 +1,17 @@
+name_school,address,phone,email,num_students,num_teachers
+School_N19,"Astana, Kazakhstan",546234,school_N19AST@mail.ru,899,45
+name_student,familyname,age,gender,nationality,school,subject
+Polina,Krasovskaya,18,Female,Pole,School_N19,['Maths']
+Didar,Bekbolatova,14,Female,Kazakh,School_N19,['Maths']
+Sabira,Serikeva,15,Female,Kazakh,School_N19,['Biology']
+Balbike,Ayateva,16,Female,Kazakh,School_N19,['Maths']
+Samuel,Galbraith,18,Male,American,School_N19,['Biology']
+Kate,Jackson,15,Female,American,School_N19,['Maths']
+Ruslan,Kozyrev,14,Male,Russian,School_N19,['Geography']
+Boris,Zhuravlev,18,Male,Russian,School_N19,['Maths']
+Akhmet,Ospanov,18,Male,Kazakh,School_N19,['Biology']
+Zhuldyz,Alieva,18,Female,Kazakh,School_N19,['Biology']
+name_teacher,familyname,age,gender,nationality,school,subject
+Daniyar,Suleymenov,29,Male,Kazakh,School_N19,['Geography']
+Georgy,Malinin,26,Male,Russian,School_N19,['Maths']
+Alexandra,Safonova,37,Female,Russian,School_N19,['Biology']
